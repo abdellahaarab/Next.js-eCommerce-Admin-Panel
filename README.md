@@ -1,7 +1,7 @@
 
 # Next.js eCommerce Admin Panel
 
-![Hero Image](./assets/path--image-1.png)
+![Hero Image](./assets/path--image-1.png.png)
 
 A full-featured **Next.js 13+ eCommerce admin panel** with:
 
@@ -43,11 +43,11 @@ A full-featured **Next.js 13+ eCommerce admin panel** with:
 
 ### Admin Dashboard
 
-![Dashboard](./assets/path--image-2.png)
+![Dashboard](./assets/path--image-2.png.png)
 
 ### Product Management Page
 
-![Products Page](./assets/path--image-3.png)
+![Products Page](./assets/path--image-3.png.png)
 
 ---
 
