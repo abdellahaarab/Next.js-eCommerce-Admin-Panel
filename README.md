@@ -15,7 +15,7 @@ A full-featured **Next.js 13+ eCommerce admin panel** with:
 
 ---
 
-## Table of Contents
+## Table of Contents     
 
 - [Features](#features)  
 - [Screenshots](#screenshots)  
